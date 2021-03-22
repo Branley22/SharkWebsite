@@ -1,12 +1,37 @@
 body {
-    
-    font-family: sans-serif;
+  background-color: #06739e;
+  font-family: Arial;
+  font-size: 20px;
 }
 
 h1 {
-    color: darkblue;
+  color: black;
+  font-size: 40px;
 }
 
 h2 {
-    color:darkblue;
+  color: black;
+  background-color: rgb(51, 97, 139);
+  text-align: center;
+}
+
+.first {
+  border-radius: 18px;
+  height: 300px;
+  text-align: center;
+}
+
+.second {
+  border: 5px solid black;
+  border-radius: 18px;
+  border-width: 9px;
+  height: 300px;
+  text-align: center;
+}
+
+.third {
+  border: 5px solid black;
+  border-radius: 18px;
+  height: 300px;
+  text-align: center;
 }
